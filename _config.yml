@@ -1,0 +1,9 @@
+name: Andrius Žiužys
+permalink: /:title.html
+# markdown: redcarpet
+# pygments: true
+rouge: true
+encoding: UTF-8
+
+gems:
+  - jekyll-sitemap

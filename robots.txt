@@ -1,0 +1,5 @@
+Host: https://ziuzys.github.io
+User-agent: *
+Disallow:
+
+Sitemap: https://ziuzys.github.io/sitemap.xml
